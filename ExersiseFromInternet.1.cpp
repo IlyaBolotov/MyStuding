@@ -1,4 +1,5 @@
-﻿#include <iostream>
+//https://acmp.ru/index.asp?main=task&id_task=6
+#include <iostream>
 #include <stdlib.h>
 #include <math.h>
 
