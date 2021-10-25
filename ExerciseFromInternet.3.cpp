@@ -1,4 +1,6 @@
-﻿//https://acmp.ru/index.asp?main=task&id_task=12
+﻿/*
+ https://acmp.ru/index.asp?main=task&id_task=12
+ */
 #include <iostream>
 
 using namespace std;
