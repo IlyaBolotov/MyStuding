@@ -1,4 +1,5 @@
-﻿#include <iostream>
+//https://acmp.ru/index.asp?main=task&id_task=11
+#include <iostream>
 
 using namespace std;
 int main()
