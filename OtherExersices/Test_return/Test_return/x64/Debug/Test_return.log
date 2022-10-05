@@ -1,0 +1,6 @@
+﻿  Test_return.cpp
+C:\Users\bist2\source\repos\Test_return\Test_return\Test_return.cpp(268,21): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\bist2\source\repos\Test_return\Test_return\Test_return.cpp(247,9): warning C4101: result: неиспользованная локальная переменная
+C:\Users\bist2\source\repos\Test_return\Test_return\Test_return.cpp(198): warning C4715: hor: значение возвращается не при всех путях выполнения
+C:\Users\bist2\source\repos\Test_return\Test_return\Test_return.cpp(148): warning C4715: sec: значение возвращается не при всех путях выполнения
+  Test_return.vcxproj -> C:\Users\bist2\source\repos\Test_return\x64\Debug\Test_return.exe
